@@ -1,4 +1,3 @@
- Image 
 - 👋 Hi, I’m **Bogdan** (@BogdanDolia)  
 - 👀 I’m passionate about **IT Security** alongside my day-to-day **SRE / DevOps** work  
 - 🌱 Currently sharpening skills on [Hack The Box](https://www.hackthebox.com/) and [iximiuz Labs](https://labs.iximiuz.com/)  
