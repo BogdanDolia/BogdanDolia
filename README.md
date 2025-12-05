@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Bogdan** (@BogdanDolia)  
 - 👀 I’m passionate about **IT Security** alongside my day-to-day **SRE / DevOps** work  
-- 🌱 Currently sharpening skills on [Hack The Box](https://www.hackthebox.com/) and [iximiuz Labs](https://labs.iximiuz.com/)  
+- 🌱 Currently sharpening skills on [Hack The Box](https://www.hackthebox.com/), [iximiuz Labs](https://labs.iximiuz.com/) and [Boot.dev](https://www.boot.dev/u/epccbd)
 - 💞️ Open to collaborating on **SRE, DevOps, or IT Security** projects and open-source tooling  
 - 📫 Reach me: 📧 cr.co.erph@gmail.com | 🔗 [LinkedIn /bogdan-dolia](https://www.linkedin.com/in/bogdan-dolia)  
 - 😄 Pronunciation: [ˈbɑɡdæn]  
